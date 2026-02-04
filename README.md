@@ -1,6 +1,6 @@
 #  Data Career Survey Dashboard (Power BI)
 
-<img src="images/overview.png" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/data-career-survey-dashboard/refs/heads/main/powerbi_career_survey/image/Details.png" width="900">
 
 ##  Project Overview
 This project presents an interactive **Power BI Dashboard** that analyzes survey responses from data professionals worldwide.
@@ -121,13 +121,13 @@ These KPIs enable dynamic and interactive dashboard filtering.
 ##  Dashboard Preview
 
 ### Home
-<img src="images/home.png" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/data-career-survey-dashboard/refs/heads/main/powerbi_career_survey/image/Home.png" width="800">
 
 ### Overview
-<img src="images/overview.png" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/data-career-survey-dashboard/refs/heads/main/powerbi_career_survey/image/Overview.png" width="800">
 
 ### Details
-<img src="images/details.png" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/data-career-survey-dashboard/refs/heads/main/powerbi_career_survey/image/Details.png" width="800">
 
 ---
 
